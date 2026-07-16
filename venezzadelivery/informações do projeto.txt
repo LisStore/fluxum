@@ -1,0 +1,39 @@
+DADOS DO PROJETO E INFORMAÇÕES DO VENEZZA DELIVERY
+=======================
+-- DADOS DE DESENVOLVEDOR
+NOME DO PROJETO: Venezza Delivery
+DOMÍNIO DISPONÍVEL: venezzadelivery.com.br (40$ em registro.br)
+HOSPEDAGEM PARA RODAR: Heavyhost.com.br (dá para deixarmos online dentro da minha máquina para evitar pagar, mas futuramente tenho a ideia de pagar por uma máquina virtual)
+BANCO DE DADOS PARA O SITE: Heavyhost.com.br phpmyadmin (usar o mesmo banco de dados    ue já uso na heavyhost)
+FERRAMENTAS: HTML, CSS e Javascriptcanvas
+DADOS DE VENDAS:
+1. O Projeto será entregue na forma desktop e mobile
+2. O site de compras será para direconar o usuário para o whatsapp bussiness
+
+=======================
+DIRETÓRIOS E CONTEÚDOS ADICIONAIS SOBRE O SISTEMA:
+--- PALETA DE CORES:
+----- BACKGROUND:
+----- HEADER:
+--- LOGO; src/utils/logo.jpeg
+=======================
+-- DADOS PARA O DESENVOLVIMENTO PRIMÁRIO DO SISTEMA:
+PÚBLICO ALVO: Pessoas com fome
+OBJTIVO GERAL: Desenvolver uma aplicação com foco em vendas, a ideia é ter um recurso focado na parte de vender o produto apenas, com um cardápio e algumas informações da loja.
+CONCORRENTES: Cardapio web, Santana Lanches, pelotense
+=======================
+-- LEVANTAMENTO DE REQUISITOS:
+--- REQUISITOS FUNCIONAIS:
+--- REQUISITOS NÃO FUNCIONAIS:
+    1. O usuário poderá realizar o pedido tendo um telefone cadastrado se for desktop
+    2. O cardápio deve aparecer puxando do banco de dados do sistema, que será adicionado algo similar ao sistema do cinemac
+    3. ALgumas prints serão postadas com a lista de feedbacks
+
+=======================
+ORGANOGRAMA DE ESTRUTURAÇÃO DO PROJETO E SEUS RESPECTIVOS SISTEMAS:
+-- Amanhã a ideia é finalizar o protótipo já para iniciar a criação de um formulário de implementação de lanches, tal como inserção do itema de lanche e suas respecitvas informaçõe, sendo:
+---- nome do lanche
+---- descrição do lanche
+---- valor do lanche
+---- se ele é favorito
+---- se tem algum cupom de desconto
