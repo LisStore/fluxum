@@ -223,8 +223,8 @@ main #topper_meio #cards .card .payment:hover {
 
 /* RESPONSIVIDADE */
 @media (max-width: 900px) {
-
     header {
+        display: none;
         flex-direction: column;
         gap: 15px;
         padding: 20px;
@@ -242,6 +242,13 @@ main #topper_meio #cards .card .payment:hover {
         padding: 40px 20px;
     }
 
+    main{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
     main #topper_inicio .left {
         max-width: 100%;
     }
@@ -251,16 +258,20 @@ main #topper_meio #cards .card .payment:hover {
     }
 
     main #topper_inicio .right img {
-        width: 280px;
-        height: 280px;
+        display: none;
     }
 
     main #topper_meio {
         padding: 40px 20px;
     }
-
+    main #topper_meio #cards{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
     main #topper_meio #cards .card {
-        width: 100%;
-        max-width: 320px;
+        max-width: 290px;
     }
 }
