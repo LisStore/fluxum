@@ -28,6 +28,8 @@
 4. ORGANIZAÇÃO DO PROJETO:
   4.1 Trello: https://trello.com/invite/b/6a3c1a8bc18d0f86e8320d5d/ATTI7f9ecba05b41da71c3b2805c4b065f3cEDD45E4A/projeto-integrador-uc1
   4.2 Github: https://github.com/LisStore/fluxum
+  4.3 Canvas: https://canva.link/hm430ka5134u0kh
+  4.4 Stitch IA: https://stitch.withgoogle.com/projects/1435088370482694177
 
 3. Arquitetura da informação
   3.1 Mapa do site
