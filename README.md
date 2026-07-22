@@ -66,6 +66,7 @@ RNF09 - os dados cadastrados devem ser armazenados em banco de dados com control
 RNF10 – o sistema deve exibir mensagens de erro claras quando um campo for preenchido incorretamente. Ajuda o usuário a entender e corrigir o problema no formulário sem ficar confuso.
 RNF11 -  o código deve seguir um padrão de organização (Ex: separação por módulos/camadas) que facilite manutenção e novas funcionalidades. Facilita que outros desenvolvedores entendam e modifiquem o sistema no futuro, sem retrabalho.
 RNF12 - O sistema deve manter disponibilidade mínima de 99% do tempo, excluindo manutenções programadas. Garante que o site esteja praticamente sempre no ar, com paradas raras e planejadas.
+
 5. Estratégia Tecnológica
   5.1 Domínio principal: fluxum.com.br
     5.1.2 Núvem: cloudflare.com.br
