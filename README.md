@@ -40,7 +40,6 @@
     3.1.5 Trabalhe conosco — Um plano oferecido pela loja para marketing e divulgação, contratando novos desenvolvedores e influencers.
 
 4. Requisitos do sistema
-Requisitos Funcionais
 RF01 - O sistema deve mostrar a página inicial com as informações da empresa. Primeira página vista pelo visitante, apresentando de forma resumida quem é a Fluxum.
 RF02 - O sistema deve apresentar os serviços que a Fluxum oferece. Que lista os serviços, ajudando o visitante a entender a  empresa.
 RF03 - O sistema deve mostrar os produtos e soluções disponíveis para os clientes. Área do site com os produtos/soluções da empresa, incluindo nome e descrição de cada um.
@@ -63,11 +62,10 @@ RNF05 - o sistema deve funcionar corretamente nas versões atuais dos navegadore
 RNF06 - as páginas devem carregar em até 3 segundos em uma conexão de banda larga padrão. Tempo de carregamento longo aumenta a chance do visitante desistir e sair do site.
 RNF07 – o sistema deve suportar pelo menos 100 usuários acessando simultaneamente sem perda perceptível de desempenho. Evita lentidão ou travamentos em momentos de maior acesso ao site.
 RNF08 -  as senhas de acesso à área administrativa devem ser armazenadas de forma criptografada. Mesmo que o banco de dados seja comprometido, as senhas não ficam expostas em texto legível.
-RNF09 - os dados cadastrados devem ser armazenados em banco de dados com controle de acesso restrito à área administrativa. Só o administrador autenticado pode alterar os cadastros, que protege as informações de acessos indevidos.
+RNF09 - os dados cadastrados devem ser armazenados em banco de dados com controle de acesso restrito à área administrativa. Só o administrador autenticado pode alterar os cadastros, que protege as informações de acessos indevidos
 RNF10 – o sistema deve exibir mensagens de erro claras quando um campo for preenchido incorretamente. Ajuda o usuário a entender e corrigir o problema no formulário sem ficar confuso.
 RNF11 -  o código deve seguir um padrão de organização (Ex: separação por módulos/camadas) que facilite manutenção e novas funcionalidades. Facilita que outros desenvolvedores entendam e modifiquem o sistema no futuro, sem retrabalho.
 RNF12 - O sistema deve manter disponibilidade mínima de 99% do tempo, excluindo manutenções programadas. Garante que o site esteja praticamente sempre no ar, com paradas raras e planejadas.
-
 5. Estratégia Tecnológica
   5.1 Domínio principal: fluxum.com.br
     5.1.2 Núvem: cloudflare.com.br
