@@ -31,15 +31,7 @@
   4.3 Canvas: https://canva.link/hm430ka5134u0kh
   4.4 Stitch IA: https://stitch.withgoogle.com/projects/1435088370482694177
 
-3. Arquitetura da informação
-  3.1 Mapa do site
-    3.1.1 Landing-page — O usuário, ao acessar o site terá acesso a página inicial, com informações da loja e suas informações.
-    3.1.2 Sobre nós — No cabeçalho, o usuário terá acesso a área de sobre nós, com informações sobre os stakeholders da empresa.
-    3.1.3 Sistema Policial — Uma página completa específica para o sistema policial que a LisStore oferece para os batalhões.
-    3.1.4 Confie em nós — Uma aba epecialmente para feedbacks que a LisStore oferece, e em tempo real retirado dos canais de feedbacks.
-    3.1.5 Trabalhe conosco — Um plano oferecido pela loja para marketing e divulgação, contratando novos desenvolvedores e influencers.
-
-4. Requisitos do sistema
+5. Requisitos do sistema
 RF01 - O sistema deve mostrar a página inicial com as informações da empresa. Primeira página vista pelo visitante, apresentando de forma resumida quem é a Fluxum.
 RF02 - O sistema deve apresentar os serviços que a Fluxum oferece. Que lista os serviços, ajudando o visitante a entender a  empresa.
 RF03 - O sistema deve mostrar os produtos e soluções disponíveis para os clientes. Área do site com os produtos/soluções da empresa, incluindo nome e descrição de cada um.
@@ -67,13 +59,13 @@ RNF10 – o sistema deve exibir mensagens de erro claras quando um campo for pre
 RNF11 -  o código deve seguir um padrão de organização (Ex: separação por módulos/camadas) que facilite manutenção e novas funcionalidades. Facilita que outros desenvolvedores entendam e modifiquem o sistema no futuro, sem retrabalho.
 RNF12 - O sistema deve manter disponibilidade mínima de 99% do tempo, excluindo manutenções programadas. Garante que o site esteja praticamente sempre no ar, com paradas raras e planejadas.
 
-5. Estratégia Tecnológica
-  5.1 Domínio principal: fluxum.com.br
-    5.1.2 Núvem: cloudflare.com.br
-    5.1.3 Domínio de um plano personalizado: venezzadelivery.com.br
+6. Estratégia Tecnológica
+  6.1 Domínio principal: fluxum.com.br
+    6.1.2 Núvem: cloudflare.com.br
+    6.1.3 Domínio de um plano personalizado: venezzadelivery.com.br
 
-  5.2 Tecnologias usadas:
-    5.2.1 HTML5,
+  6.2 Tecnologias usadas:
+    .62.1 HTML5,
     5.2.2 CSS,
     5.2.3 JavaScript
     5.2.4 mysql2
